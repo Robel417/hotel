@@ -32,12 +32,6 @@ Your one-stop solution for managing hotel operations with ease and efficiency.
 
 ---
 
-## 📚 Documentation
-
-Find detailed guides in the [`docs/`](docs/) folder.
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions!  
@@ -48,7 +42,7 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 📧 Contact
 
 For support or inquiries:  
-**Email:** robelhotel@example.com
+**Email:** robelabirew@gmail.com
 
 ---
 
